@@ -3,13 +3,13 @@ https://www.google.com/search?q=react+router+in+react+js+in+hindi&biw=1600&bih=7
 
 
 ::::::::::::::::::::::    Topics    :::::::::::::::::
-*) Link
-*) NavLink
-*) useParams
-*) useSearchParams
-*) Navigate
-*) useLocation
-*) useNavigate
+*) Link  >>>>>>>>>>>> (in Router page) >>>> without styling
+*) NavLink  >>>>>>>>>>>>>> (in Router page)  >>>> with styling
+*) useParams  >>>>>>>>>>  (in Postid page)   >>>> fetch data in this condition >> :category 
+*) useSearchParams  >>>>>>>>>>>>>>  (in HandleSearchparam page) >>>> fetch data in this condition >> ?price=199 
+*) Navigate  >>>>>>>>>>>>   (in Router page) >>> we use transfer another route in Router.js file only
+*) useLocation >>>>>>>>>>>>> (in Login page)  >>> fetch data router to login like parent to child
+*) useNavigate >>>>>>>>>>>>> (in Dashboard page) >>> transfer another route and send data also
 
 ::::::::::::::::::::::     Points     ::::::::::::::::::::::
 *)  Ract router 6

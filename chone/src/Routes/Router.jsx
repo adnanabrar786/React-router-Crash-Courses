@@ -18,7 +18,7 @@ import Login from '../pages/Login';
 import Logout from '../pages/Logout';
 
 const Router = () => {
-    let isLogin = true;
+    let isLogin = false;
     let data = {
         loginMessage: "user not login"
     }

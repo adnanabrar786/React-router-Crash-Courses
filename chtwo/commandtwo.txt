@@ -5,7 +5,12 @@ https://www.google.com/search?q=react+router+in+react+js+in+hindi&biw=1600&bih=7
 Time :::: 1:01:12
 
 ::::::::::   Topics   ::::::::::::
-*) Outlet  (in Layout.js page)
 *) nestd Routes  (in Router.js page)
 *) nestd and again nested Routes  (in Router.js page)
 *) index (in Router.js page)
+*) Outlet  (in Layout.js page)
+
+
+::::::::::   points   ::::::::::::
+*) index >>> is the first page of parent Route
+*) Outlet >>> is define all the child by using outlet 

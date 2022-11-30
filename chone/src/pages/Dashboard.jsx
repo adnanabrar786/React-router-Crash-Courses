@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom'
 
 const Dashboard = () => {
     const navigate = useNavigate();
+    // send data to logout
     let data = {
         name: "user"
     }
