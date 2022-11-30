@@ -1,2 +1,29 @@
-crash course react router :::::::
+::::::::::  Crash course react router :::::::
 https://www.google.com/search?q=react+router+in+react+js+in+hindi&biw=1600&bih=789&tbm=vid&sxsrf=ALiCzsaAF0dQLmyUupnBD28GfJ8d4sOkag%3A1669660466266&ei=Mv-EY7rqD8SW9u8P--S16A0&ved=0ahUKEwi6y_L3wdH7AhVEi_0HHXtyDd0Q4dUDCA0&uact=5&oq=react+router+in+react+js+in+hindi&gs_lcp=Cg1nd3Mtd2l6LXZpZGVvEAMyBQghEKABMgUIIRCgAToECCMQJzoGCAAQFhAeOgUIABCGAzoICCEQFhAeEB06CgghEBYQHhAPEB06BwghEKABEApQvgRY_hNgoxdoAHAAeACAAfsCiAHFF5IBBTItNS41mAEAoAEBwAEB&sclient=gws-wiz-video#fpstate=ive&vld=cid:b5dbba7c,vid:x25vdOsMaqY
+
+
+::::::::::::::::::::::    Topics    :::::::::::::::::
+*) Link
+*) NavLink
+*) useParams
+*) useSearchParams
+*) Navigate
+*) useLocation
+*) useNavigate
+
+::::::::::::::::::::::     Points     ::::::::::::::::::::::
+*)  Ract router 6
+*)  no reloading time direct access i  React Router
+*)  no styling in react router in ( Link )
+*)  styling in react router in ( NavLink ) 
+*)  page not found
+*)  post page for dynamic categories by using useParams
+*)  useParams single value >>>>>>>>>>> (in Postid pgae)
+*)  useParams double value  >>>>>>>>>>  (in Postid page)
+*)  useSearchParams single value and more than one value >>>>>>>>>>>>>>  (in HandleSearchparam page)
+*)  Conditionaly render components (dashboard and login page)
+*)  import { Navigate } from "react-router-dom"; >>>>>>>>>>>> (in Router page)
+    <Navigate to="/login" replace={true} state={data} />
+*)  useLocation()  >>>>>>>>>>>>> (in Login page)
+*)  useNavigate()  >>>>>>>>>>>>> (in Dashboard page) 
+   !!!!!!!!!!!  replace option available in useNavigate() means clearc history
